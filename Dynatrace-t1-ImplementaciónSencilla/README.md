@@ -11,7 +11,6 @@ Instalar Dynatrace OneAgent y ejecutar un microservicio Python, validar la visib
 ## Preparación
 1. Clona o descarga los archivos de este taller.
 2. Reemplaza `DT_API_URL` y `DT_TOKEN` con tus datos reales de Dynatrace.
-(Puedes usar todo en Windows o todo en Linux/WSL)
 
 En la web de Dynatrace encontrarás la manera de instalar OneAgent en tu máquina:
 
