@@ -50,4 +50,5 @@ Extra: Modifica la aplicación para generar más datos y genera dashboards si te
 
 CUANDO ACABES: Destruye dynatrace y destruye el contenedor
 ( sudo /opt/dynatrace/oneagent/agent/uninstall.sh
+
 docker rm …)
